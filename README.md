@@ -62,3 +62,16 @@ Passos para Construção
         Rotina para aproximação e posicionamento
 
         Sequência de coleta e transporte
+
+        Melhorias Possíveis
+
+    Adicionar visão computacional para identificação precisa
+
+    Implementar navegação autônoma com mapeamento
+
+    Adicionar sistema de empilhamento
+
+    Desenvolver controle remoto via Bluetooth/WiFi
+
+Você está construindo este robô para alguma aplicação específica? Posso ajustar as recomendações conforme sua necessidade.
+
